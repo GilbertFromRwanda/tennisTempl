@@ -1,0 +1,36 @@
+Uri: https://www.templatemonsterpreview.com/demo/61395.html?_gl=1*i4dn0p*_ga*MjA0ODQ1MzY3Mi4xNjIzNjgzNzkw*_ga_FTPYEGT5LY*MTYyMzY4Mzc4OS4xLjAuMTYyMzY4Mzc5NC41NQ..&_ga=2.51870569.1758179439.1623683790-2048453672.1623683790
+File Name: C:\Downloaded Web Sites\www.templatemonsterpreview.com\demo\61395.html
+Content Type: text/html
+
+Uri: https://www.templatemonsterpreview.com/demo/61395.html
+File Name: C:\Downloaded Web Sites\www.templatemonsterpreview.com\demo\61395-1.html
+Content Type: text/html
+
+Uri: https://s.tmimgcdn.com/scr/1200x750/61300/tennis-club-sports--events-multipage-website-template_61395-0-original.jpg
+File Name: C:\Downloaded Web Sites\www.templatemonsterpreview.com\scr\1200x750\61300\tennis-club-sports--events-multipage-website-template_61395-0-original.jpg
+Content Type: image/jpeg
+
+Uri: https://www.templatemonster.com/assets/css/demo-26d1285daa693707be9e.css
+File Name: C:\Downloaded Web Sites\www.templatemonsterpreview.com\assets\css\demo-26d1285daa693707be9e.css
+Content Type: text/css
+
+Uri: https://www.templatemonster.com/website-templates/tennis-club-sports-events-multipage-website-template-61395.html
+File Name: C:\Downloaded Web Sites\www.templatemonsterpreview.com\website-templates\tennis-club-sports-events-multipage-website-template-61395.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-MS2BNB
+File Name: C:\Downloaded Web Sites\www.templatemonsterpreview.com\ns.html
+Content Type: text/html
+
+Uri: https://www.templatemonster.com/assets/js/commons-47970460e6153c9fac46.js
+File Name: C:\Downloaded Web Sites\www.templatemonsterpreview.com\assets\js\commons-47970460e6153c9fac46.js
+Content Type: application/javascript
+
+Uri: https://www.templatemonster.com/assets/js/demo-b2dab733348221e9352e.js
+File Name: C:\Downloaded Web Sites\www.templatemonsterpreview.com\assets\js\demo-b2dab733348221e9352e.js
+Content Type: application/javascript
+
+Uri: https://monsterone.com/tm-membership/61395/?tmaff=rockthemes
+File Name: C:\Downloaded Web Sites\www.templatemonsterpreview.com\tm-membership\61395\index.htm
+Content Type: text/html
+
